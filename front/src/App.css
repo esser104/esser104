@@ -1,0 +1,10 @@
+
+.active {
+    border-bottom: 4px solid #00C2F4;
+    background-color: #028E4660;
+    text-shadow: 2px 2px 2px #351056;
+}
+body {
+    background-repeat: no-repeat;
+    margin: -8px;
+}
